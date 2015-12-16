@@ -1,6 +1,37 @@
-﻿body {
-}
-header {
+﻿header {
     width: 1920px;
     height: 250px;
+}
+nav {
+    height: 120px;
+    background-color: black;
+    width:960px;
+    margin-top: 10px;
+}
+.navkasse {
+    height:200px;
+    width: 960px;
+    margin-bottom: 10px;
+}
+#wrapper {
+    margin : 0 auto 0 auto;
+    margin: 0;
+    padding: 0;
+    width: 960px;
+}
+.buttomclass {
+    background-color: black;
+    width: 1920px;
+    height: 300px;
+}
+footer {
+    height: 50px;
+    width: 960px;
+    background-color: black;
+}
+section {
+    background-color: white;
+    min-height: 300px;
+    border: 2px solid black;
+    width: 960px;
 }

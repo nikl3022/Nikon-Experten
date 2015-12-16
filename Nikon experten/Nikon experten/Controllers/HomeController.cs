@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using RepoNikon;
 
-namespace Nikon_experten.Controllers
+namespace Nikon_Experten.Controllers
 {
     public class HomeController : Controller
     {

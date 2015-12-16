@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Nikon_experten")]
+[assembly: AssemblyTitle("Nikon_Experten")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Nikon_experten")]
+[assembly: AssemblyProduct("Nikon_Experten")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("70c67cd0-8c35-48c0-b529-7330d59f8c39")]
+[assembly: Guid("75879072-d3a1-4079-86bf-9370358e7c23")]
 
 // Version information for an assembly consists of the following four values:
 //
